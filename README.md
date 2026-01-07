@@ -18,3 +18,6 @@ Beginner | Learning consistently
 - Python
 - GitHub
 - AI as learning assistant
+## Progress
+- Day 1: GitHub setup and README creation
+- Day 2: Python basics (input, conditionals)
