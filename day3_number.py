@@ -8,3 +8,4 @@ total=sum(marks)
 avg=total/total_subs
 print('Total Marks:',total)
 print('Average marks:',avg)
+
