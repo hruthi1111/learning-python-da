@@ -22,4 +22,4 @@ Beginner | Learning consistently
 - Day 1: GitHub setup and README creation
 - Day 2: Python basics (input, conditionals)
 - Day 3: Lists, loops, and basic data analysis
-
+- Day 4: Grades with numbers
