@@ -24,4 +24,5 @@ Beginner | Learning consistently
 - Day 3: Lists, loops, and basic data analysis
 - Day 4: Grades with numbers
 - Day 5: Using dictionaries to represent structured data
+- Day 6: Simple expense tracking and analysis  
 
