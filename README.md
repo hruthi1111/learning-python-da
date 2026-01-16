@@ -27,3 +27,6 @@ Beginner | Learning consistently
 - Day 6: Simple expense tracking and analysis
 - Day 7: Reading/Acessing the already existed or created file data 
 
+
+#stopping because i dont feel this right 
+i need start againg because i have missed 2days
